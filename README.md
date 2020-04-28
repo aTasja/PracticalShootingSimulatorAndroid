@@ -1,6 +1,7 @@
 # PracticalShootingSimulatorAndroid
 
-https://play.google.com/store/apps/details?id=com.avsappdevelopment.pss
+GooglePlay https://play.google.com/store/apps/details?id=com.avsappdevelopment.pss
+Gameplay video - https://youtu.be/sYS8l-Vmv_g
 
 The spirit of IPSC competitions inspired us to create this game. 
 We think this shooting discipline and competitions are fascinating, dynamic, and useful for all civilian weapons holders.
