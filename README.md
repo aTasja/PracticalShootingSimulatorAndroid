@@ -1,5 +1,4 @@
 # PracticalShootingSimulatorAndroid
-===============================================
 
 https://play.google.com/store/apps/details?id=com.avsappdevelopment.pss
 
@@ -15,4 +14,4 @@ We also added Duel type exercises.
 
 To achieve a better result in this game, you will need to plan in your mind the passage of the exercise before it begins. You need to think about a better game plan before beginning the exercise and control yourself during a pass through the exercise. So you will feel yourself like a shooter on a competition.
 
-Some screen shots:
+Some screenshots:
