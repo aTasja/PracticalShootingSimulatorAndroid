@@ -21,11 +21,11 @@ To achieve a better result in this game, you will need to plan in your mind the 
 
 Some used assets:
 --------------------------
-Terrain Textures Pack Free - https://assetstore.unity.com/packages/2d/textures-materials/terrain-textures-pack-free-139542
-Joystick Pack - https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
-Desert Environment - http://devassets.com/assets/desert-environment/
-Modern Guns: Handgun - https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821
-Native Share for Android & iOS - https://assetstore.unity.com/packages/tools/integration/native-share-for-android-ios-112731
+Terrain Textures Pack Free - https://assetstore.unity.com/packages/2d/textures-materials/terrain-textures-pack-free-139542<br />
+Joystick Pack - https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631<br />
+Desert Environment - http://devassets.com/assets/desert-environment/<br />
+Modern Guns: Handgun - https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821<br />
+Native Share for Android & iOS - https://assetstore.unity.com/packages/tools/integration/native-share-for-android-ios-112731<br />
 
 Some screenshots:
 ------------------------------
