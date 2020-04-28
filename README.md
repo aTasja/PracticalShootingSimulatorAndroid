@@ -1,8 +1,11 @@
 # PracticalShootingSimulatorAndroid
 
-GooglePlay https://play.google.com/store/apps/details?id=com.avsappdevelopment.pss
+[GooglePlay](https://play.google.com/store/apps/details?id=com.avsappdevelopment.pss)<br />
 
-Gameplay video - https://youtu.be/sYS8l-Vmv_g
+Gameplay video
+-----------------------------
+[![Gameplay video](https://img.youtube.com/vi/sYS8l-Vmv_g/maxresdefault.jpg)](https://youtu.be/sYS8l-Vmv_g)<br />
+
 
 The spirit of IPSC competitions inspired us to create this game. 
 We think this shooting discipline and competitions are fascinating, dynamic, and useful for all civilian weapons holders.
@@ -25,7 +28,7 @@ Native Share for Android & iOS - https://assetstore.unity.com/packages/tools/int
 
 Some screenshots:
 ---------------------------------
-<img src="/2017BackgroundLarge.png"  height="563" width="784">
-<img src="/duelBackgroundLarge.png"  height="563" width="784">
-<img src="/eventsBackgroundLarge.png"  height="563" width="784">
-<img src="/mainBackgroundLarge.png"  height="563" width="784">
+<img src="/2017BackgroundLarge.png"  height="360" width="640">
+<img src="/duelBackgroundLarge.png"  height="360" width="640">
+<img src="/eventsBackgroundLarge.png"  height="360" width="640">
+<img src="/mainBackgroundLarge.png"  height="360" width="640">
