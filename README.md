@@ -15,3 +15,8 @@ We also added Duel type exercises.
 To achieve a better result in this game, you will need to plan in your mind the passage of the exercise before it begins. You need to think about a better game plan before beginning the exercise and control yourself during a pass through the exercise. So you will feel yourself like a shooter on a competition.
 
 Some screenshots:
+---------------------------------
+<img src="//2017BackgroundLarge.png"  height="563" width="784">
+<img src="//duelBackgroundLarge.png"  height="563" width="784">
+<img src="//eventsBackgroundLarge.png"  height="563" width="784">
+<img src="//mainBackgroundLarge.png"  height="563" width="784">
