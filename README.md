@@ -16,7 +16,7 @@ To achieve a better result in this game, you will need to plan in your mind the 
 
 Some screenshots:
 ---------------------------------
-<img src="//2017BackgroundLarge.png"  height="563" width="784">
-<img src="//duelBackgroundLarge.png"  height="563" width="784">
-<img src="//eventsBackgroundLarge.png"  height="563" width="784">
-<img src="//mainBackgroundLarge.png"  height="563" width="784">
+<img src="/2017BackgroundLarge.png"  height="563" width="784">
+<img src="/duelBackgroundLarge.png"  height="563" width="784">
+<img src="/eventsBackgroundLarge.png"  height="563" width="784">
+<img src="/mainBackgroundLarge.png"  height="563" width="784">
