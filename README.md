@@ -36,7 +36,7 @@ Some screenshots:
 <img src="/duelBackgroundLarge.png"  height="360" width="640">
 <img src="/eventsBackgroundLarge.png"  height="360" width="640">
 <img src="/settings.png"  height="360" width="640">
-<img src="/sootoff.png"  height="360" width="640">
+<img src="/shootoff.png"  height="360" width="640">
 <img src="/help.png"  height="360" width="640">
 <img src="/stages.png"  height="360" width="640">
 
