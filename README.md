@@ -31,12 +31,12 @@ Some screenshots:
 ------------------------------
 <img src="/01_main.jpg"  height="360" width="640">
 <img src="/02_events.jpg"  height="360" width="640">
-<img src="/stage1.jpg"  height="360" width="640">
+<img src="/scene1.png"  height="360" width="640">
 <img src="/2017BackgroundLarge.png"  height="360" width="640">
 <img src="/duelBackgroundLarge.png"  height="360" width="640">
 <img src="/eventsBackgroundLarge.png"  height="360" width="640">
-<img src="/settings.jpg"  height="360" width="640">
-<img src="/sootoff.jpg"  height="360" width="640">
-<img src="/help.jpg"  height="360" width="640">
-<img src="/stages.jpg"  height="360" width="640">
+<img src="/settings.png"  height="360" width="640">
+<img src="/sootoff.png"  height="360" width="640">
+<img src="/help.png"  height="360" width="640">
+<img src="/stages.png"  height="360" width="640">
 
