@@ -6,18 +6,16 @@ Gameplay video
 -----------------------------
 [![Gameplay video](https://img.youtube.com/vi/sYS8l-Vmv_g/maxresdefault.jpg)](https://youtu.be/sYS8l-Vmv_g)<br />
 
-
 The spirit of IPSC competitions inspired us to create this game. 
-We think this shooting discipline and competitions are fascinating, dynamic, and useful for all civilian weapons holders.
+We think this shooting discipline and competitions are fascinating, dynamic, and useful for all civilian firearms holders.
 
-IPSC shooters use potentially dangerous light civil firearms. 
-Shooters train hard to get solid weapon control skills and think in the process of preparing and completing the exercises.
+Athletes work hard to get solid firearm control skills, to gain self-control, and the ability to think right in the process of completing the exercises.
 
 The exercise materials from past ASIA PACIFIC EXTREME OPEN championships are used in this game. You may get more information about W.E.C if you look at https://www.worldextremecup.com/.
 
-We also added Duel type exercises.
+This game contains Shoot Off also.
 
-To achieve a better result in this game, you will need to plan in your mind the passage of the exercise before it begins. You need to think about a better game plan before beginning the exercise and control yourself during a pass through the exercise. So you will feel yourself like a shooter on a competition.
+To achieve a better result in this game, you need to think about a better game plan before beginning the stage and control yourself during a pass through the stage. So you will feel yourself like a competitor athlete in a match.
 
 Some used assets:
 --------------------------
